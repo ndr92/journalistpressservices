@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Walmart, Sam's Club roll out new 'Eye <b>Bot</b>' kiosks | KFOR.com Oklahoma City"
+date: 2025-12-12
+---
+
+<div style='margin-bottom:20px'>
+<p><strong>Title:</strong> Walmart, Sam's Club roll out new 'Eye <b>Bot</b>' kiosks | KFOR.com Oklahoma City</p>
+<p><a href='https://kfor.com/news/walmart-sams-club-roll-out-new-eye-bot-kiosks/'>Visit Source</a></p>
+<p><strong>Date Published:</strong> 2025-12-12T03:39:47Z</p>
+<p><strong>Category:</strong> bot</p>
+</div>
